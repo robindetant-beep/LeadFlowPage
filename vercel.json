@@ -1,6 +1,4 @@
 {
-  "framework": null,
-  "buildCommand": "echo \"Static site: no build step\"",
-  "installCommand": "echo \"Static site: no install\"",
+
   "outputDirectory": "."
 }
