@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "buildCommand": "npm run vercel-build",
+  "installCommand": "echo \"Static site: no install\"",
+  "outputDirectory": "."
+}

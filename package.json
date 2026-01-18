@@ -1,0 +1,8 @@
+{
+  "name": "leadflow-static",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site: no build step'",
+    "vercel-build": "echo 'Static site: no build step'"
+  }
+}
